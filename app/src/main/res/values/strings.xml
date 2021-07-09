@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StopTheCrime</string>
+    <string name="label_back">Back</string>
+    <string name="send_feedback_button_text">Click Here to Send Your Feedback,  This will open a Google Form in Your Browser. Fill It Up</string>
+    <string name="about_beta_version">
+        This is an early beta version of this app, which means features are meant to be buggy where other ones may not even work. We are working on several features and UI changes which may even change how you interact with the app.
+        \n\t# The Police Helpline will come with actual numbers of course ;-;
+        \n\t# Asking for help in the anonymous option will broadcast your location to all users of the as a help message.
+        \n\t# A Merged Button to trigger both The anonymous help and offline help together.
+        \n\t# We plan to have the map in the home screen and minimal icon buttons for actions. Making the UX more intuitive.
+        \n\t# We are always open for your suggestions.
+
+        \n\n #StaySafe  #Together  #StopTheRape
+
+    </string>
+</resources>
